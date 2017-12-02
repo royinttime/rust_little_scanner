@@ -1,0 +1,6 @@
+[package]
+name = "scanner"
+version = "0.1.0"
+authors = ["Roy Tseng <royinttime@gmail.com>"]
+
+[dependencies]
