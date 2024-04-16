@@ -1,9 +1,7 @@
+mod util;
 use std::env;
 
-fn scanner(file_name: &String)
-{
-	println!("{}", file_name);
-}
+use util::scanner;
 
 fn main() 
 {
